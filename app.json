@@ -1,13 +1,13 @@
 {
-  "name": "DaisyXMusic",
-  "logo": "https://telegra.ph/file/36ff1b571aa11df5812de.jpg",
+  "name": "Night Vission Music",
+  "logo": "https://te.legra.ph/file/354bee41b0089d9f3c621.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": [
     "music", 
     "voicechat", 
     "telegram"
   ],
-  "repository": "https://github.com/TeamDaisyX/DaisyXMusic",
+  "repository": "https://github.com/Captainamarica/NightVissionMusicBots",
   "stack": "container",
   "buildpacks": [
    {
